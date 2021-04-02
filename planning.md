@@ -32,6 +32,6 @@ eg. As a user, I shouldn't be able to edit other users posts, because I don't ow
 * As a user, I want to be able to favourite a map, because I want to check it later.
 * As a user, I want to be able to have a profile, because I want to be able to view a list of my maps and contribution.
 
-###ERD
+### ERD
 
-!["wiki_map_ERD"](https://files.slack.com/files-pri/T2G8TE2E5-F01T3PP5WPP/screen_shot_2021-04-02_at_2.01.53_pm.png)
+!["wiki_map_ERD"](https://github.com/tpampilon/planning_wiki_map/blob/master/ERD/wiki_map_ERD.png?raw=true)
