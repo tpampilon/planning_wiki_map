@@ -80,3 +80,7 @@ Design matters... however you are a developer, not a designer
 
 Get inspiration from websites you visit -->
 
+### Wireframe
+
+!["home_page"](https://github.com/tpampilon/planning_wiki_map/blob/master/ERD/v_1_wiki_map_ERD.png?raw=true)
+!["favourites_page"](https://github.com/tpampilon/planning_wiki_map/blob/master/ERD/v_1_wiki_map_ERD.png?raw=true)
