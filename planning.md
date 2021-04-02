@@ -35,3 +35,48 @@ eg. As a user, I shouldn't be able to edit other users posts, because I don't ow
 ### ERD
 
 !["wiki_map_ERD"](https://github.com/tpampilon/planning_wiki_map/blob/master/ERD/wiki_map_ERD.png?raw=true)
+
+
+<!-- Routes
+
+Once you know the resources that you'll have, write out the routes that you'll need to perform BREAD operations on those resources
+
+Remember RESTful conventions (they make it much easier) -->
+
+### Routes
+
+#### Maps
+
+* **B** - GET   /
+* **R** - GET   /maps/:id
+* **E** - POST  /maps/:id/edit
+* **A** - POST  /maps/
+* **D** - POST  /maps/:id/delete
+
+#### Users
+
+* **B** - GET   
+* **R** - GET   /users/:id
+* **E** - POST  
+* **A** - POST  
+* **D** - POST  
+
+<!-- #### Pins
+
+* **B** - GET   /
+* **R** - GET   /pins/:id
+* **E** - POST  /pins/:id/edit
+* **A** - POST  /pins/
+* **D** - POST  /pins/:id/delete -->
+
+<!-- Wireframes
+Draw out the structure of your web pages
+
+This will make it much easier to build out these pages later
+
+This is also a great opportunity to get input from all of the team members
+
+Design matters... however you are a developer, not a designer
+
+Get inspiration from websites you visit -->
+
