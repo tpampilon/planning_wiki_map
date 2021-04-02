@@ -34,7 +34,7 @@ eg. As a user, I shouldn't be able to edit other users posts, because I don't ow
 
 ### ERD
 
-!["wiki_map_ERD"](https://github.com/tpampilon/planning_wiki_map/blob/master/ERD/wiki_map_ERD.png?raw=true)
+!["wiki_map_ERD"](https://github.com/tpampilon/planning_wiki_map/blob/master/ERD/v_1_wiki_map_ERD.png?raw=true)
 
 
 <!-- Routes
